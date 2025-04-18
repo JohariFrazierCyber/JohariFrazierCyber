@@ -27,8 +27,8 @@ Stay tuned! I’ll be adding hands-on labs, threat analysis writeups, and cybers
 
 ## 📫 Contact Me
 
-- [LinkedIn](https://linkedin.com/in/yourprofile)
-- [Email](mailto:youremail@example.com)
+- [LinkedIn](https://www.linkedin.com/in/joharifrazierii/)
+- [Email](frazier.joharii@gmail.com)
 
 ```
 Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
