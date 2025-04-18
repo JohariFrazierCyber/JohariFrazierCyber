@@ -4,9 +4,9 @@ layout: default
 
 
 
-# 👋 Hi, I'm [Your Name]
+# Hi, I'm Johari
 
-Welcome to my GitHub portfolio! I'm an aspiring cybersecurity professional with a passion for protecting systems, solving complex problems, and continuously learning.
+Welcome to my Cybersecurity portfolio! I'm an aspiring cybersecurity professional with a passion for protecting systems, solving complex problems, and continuously learning.
 
 I've completed both the:
 
