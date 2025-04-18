@@ -21,7 +21,25 @@ These programs gave me hands-on experience in incident response, security operat
 
 ## 🔧 Projects
 
-Stay tuned! I’ll be adding hands-on labs, threat analysis writeups, and cybersecurity tools I’m exploring.
+### 📝 Incident Handler Journal  
+Effectively communicates how to document and respond to a cybersecurity incident using standard procedures and formats.
+
+![Incident Journal](assets/incident-journal.png) <!-- Update with your actual image path -->
+
+---
+
+### 🔐 TryHackMe Practice Lab  
+Hands-on cybersecurity training through real-world scenarios, including enumeration, exploitation, and privilege escalation.  
+
+![TryHackMe](assets/tryhackme-profile.png)  
+[🔗 View My TryHackMe Profile](https://tryhackme.com/p/Jofrazi) <!-- Replace with your profile link -->
+
+---
+
+### 🧮 Google SQL Joins Project  
+Showcases my ability to write efficient SQL queries using `INNER JOIN`, `LEFT JOIN`, and other relational operations in MySQL.
+
+![SQL Project](assets/sql-joins.png)
 
 ---
 
