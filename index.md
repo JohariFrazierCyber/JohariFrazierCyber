@@ -15,7 +15,7 @@ I've completed both the:
 
 These programs gave me hands-on experience in incident response, security operations, risk management, and more.
 
-![Google Cybersecurity](assets/google-cybersecurity.png) <!-- Replace with your actual image path -->
+![Google Cybersecurity]  Google cybersecurity.pdf<!-- Replace with your actual image path -->
 
 ---
 
