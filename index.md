@@ -4,7 +4,7 @@ layout: default
 
 
 
-# Hi, I'm Johari
+# Hi, I'm Johari Frazier
 
 Welcome to my Cybersecurity portfolio! I'm an aspiring cybersecurity professional with a passion for protecting systems, solving complex problems, and continuously learning.
 
