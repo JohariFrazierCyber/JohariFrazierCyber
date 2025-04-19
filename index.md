@@ -39,7 +39,7 @@ Hands-on cybersecurity training through real-world scenarios, including enumerat
 ### 🧮 Google SQL Joins Project  
 Showcases my ability to write efficient SQL queries using `INNER JOIN`, `LEFT JOIN`, and other relational operations in MySQL.
 
-![SQL Project](assets/sql-joins.png)
+[![SQL Certificate](assets/sql-joins-certificate.png)](https://coursera.org/share/b76b565bcda5cba6b574327ce1602fc4)
 
 ---
 
