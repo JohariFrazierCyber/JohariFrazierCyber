@@ -15,7 +15,7 @@ I've completed both the:
 
 These programs gave me hands-on experience in incident response, security operations, risk management, and more.
 
- [![Google Cybersecurity Certificate](https://github.com/JohariFrazierCyber/JohariFrazierCyber/blob/bce467023dff60daecd229097fb3ad259a8be0ca/assets/google%20cyber.png)<!-- Replace with your actual image path -->
+ [![Google Cybersecurity Certificate](assets/google cyber.png)<!-- Replace with your actual image path -->
 
 ---
 
