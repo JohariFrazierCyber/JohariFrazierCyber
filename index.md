@@ -24,7 +24,7 @@ These programs gave me hands-on experience in incident response, security operat
 ### 📝 Incident Handler Journal  
 Effectively communicates how to document and respond to a cybersecurity incident using standard procedures and formats.
 
-![Incident Journal](https://github.com/JohariFrazierCyber/JohariFrazierCyber/blob/228a8786e209a30f33255c92f75a43ccfee826f0/assets/Incidendent%20handlers%20jornal%20pt1.png) <!-- Update with your actual image path -->
+![Incident Journal](https://github.com/JohariFrazierCyber/JohariFrazierCyber/blob/228a8786e209a30f33255c92f75a43ccfee826f0/assets/Incidendent%20handlers%20jornal%20pt1.pnghttps://github.com/JohariFrazierCyber/JohariFrazierCyber/blob/a0ac2b1858a470deb78c04b6a3ec89c692480160/assets/Incident%20Handlers%20pt2.png) <!-- Update with your actual image path -->
 
 ---
 
