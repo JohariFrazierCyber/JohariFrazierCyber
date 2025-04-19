@@ -42,6 +42,18 @@ Showcases my ability to write efficient SQL queries using `INNER JOIN`, `LEFT JO
 ![SQL](assets/SQL.png)
 
 ---
+## 🧠 Skills
+
+- 🔒 Cybersecurity Concepts: Threat Modeling, Vulnerability Management, Incident Response  
+- 🛠️ Tools: Wireshark, Splunk, Linux, MySQL, Nmap, Burp Suite  
+- 💻 Languages: Bash, Python (beginner), SQL  
+- ☁️ Platforms: TryHackMe, Google Cloud, GitHub  
+
+---
+
+## 🎯 About Me
+
+I’m transitioning into the cybersecurity field with a strong interest in blue team operations, incident handling, and ethical hacking. My goal is to earn a role in SOC analysis or security operations where I can protect systems, respond to threats, and grow my skills every day.
 
 ## 📫 Contact Me
 
