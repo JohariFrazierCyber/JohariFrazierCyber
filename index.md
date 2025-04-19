@@ -31,7 +31,7 @@ Effectively communicates how to document and respond to a cybersecurity incident
 ### 🔐 TryHackMe Practice Lab  
 Hands-on cybersecurity training through real-world scenarios, including enumeration, exploitation, and privilege escalation.  
 
-![TryHackMe](https://github.com/JohariFrazierCyber/JohariFrazierCyber/blob/5dc4115e50aa0956b9cdd5d108422504ba8f9726/try%20hack%20me%20pic.png)  
+![TryHackMe](assets/tryhackmepic.png)  
 [🔗 View My TryHackMe Profile](https://tryhackme.com/p/Jofrazi) <!-- Replace with your profile link -->
 
 ---
